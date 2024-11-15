@@ -1,4 +1,3 @@
-import { test } from "mocha";
 import { asnycCount, count } from "./code.js";
 import jsc from 'jsverify';
 
